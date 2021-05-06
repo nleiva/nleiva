@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-** 👋 Blog posts ***
+👋 **Blog posts**
 - [Network MOP's as automated workflows](https://www.ansible.com/blog/network-mops-as-automated-workflows)
 - [Monitoring your home lab devices in the cloud for free](https://nleiva.medium.com/monitoring-your-home-lab-devices-in-the-cloud-for-free-54c4d11ac471)
 - [How to make the case for automation architecture: 5 ways to win investment](https://www.redhat.com/architect/automation-architecture)
