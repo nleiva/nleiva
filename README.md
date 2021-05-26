@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - 🔐 [Practical guide to securing gRPC connections with Go and TLS](https://itnext.io/practical-guide-to-securing-grpc-connections-with-go-and-tls-part-1-f63058e9d6d1)
 - 🌐 [Kubernetes Networking: Behind the scenes](https://medium.com/@nleiva/kubernetes-networking-behind-the-scenes-39a1ab1792bb)
 - ✔️ ... [Full list](https://github.com/nleiva/my-stuff)
+
+<img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nleiv4?style=social">
+<a href="https://linkedin.com/in/nleiva"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="nleiva" /></a>
+<a href="https://nleiva.medium.com/"><img align="left" src="https://img.shields.io/badge/Medium-%2312100E.svg?style=plastic&logo=medium&logoColor=white" alt="@nleiva" /></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=nleiva&label=Views&style=plastic&color=orange">
