@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 📖 **Blog posts**
+- 💰 [How to consistently run temporary workloads on AWS and save money](https://nleiva.medium.com/how-you-can-consistently-run-temporary-workloads-in-the-cloud-37140b4b5e55)
 - ⚙️ [Network MOP's as automated workflows](https://www.ansible.com/blog/network-mops-as-automated-workflows)
 - 📈 [Monitoring your home lab devices in the cloud for free](https://nleiva.medium.com/monitoring-your-home-lab-devices-in-the-cloud-for-free-54c4d11ac471)
 - 💻 [How to make the case for automation architecture](https://www.redhat.com/architect/automation-architecture)
