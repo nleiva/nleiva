@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 📖 **Blog posts**
+- 🤔 [Network automation: What architects need to know](https://www.redhat.com/architect/network-automation)
 - 💰 [How to consistently run temporary workloads on AWS and save money](https://nleiva.medium.com/how-you-can-consistently-run-temporary-workloads-in-the-cloud-37140b4b5e55)
 - ⚙️ [Network MOP's as automated workflows](https://www.ansible.com/blog/network-mops-as-automated-workflows)
 - 📈 [Monitoring your home lab devices in the cloud for free](https://nleiva.medium.com/monitoring-your-home-lab-devices-in-the-cloud-for-free-54c4d11ac471)
@@ -26,4 +27,3 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/nleiva"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="nleiva" /></a>
 <a href="https://nleiva.medium.com/"><img align="left" src="https://img.shields.io/badge/Medium-%2312100E.svg?style=plastic&logo=medium&logoColor=white" alt="@nleiva" /></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=nleiva&label=Views&style=plastic&color=orange">
-<a rel="me" href="https://techhub.social/@nleiva">Mastodon</a>
